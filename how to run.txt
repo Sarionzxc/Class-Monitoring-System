@@ -1,0 +1,22 @@
+
+open terminal type:
+.venv\Scripts\activate
+
+kung mag error 
+"""
+Set-ExecutionPolicy Unrestricted -Scope Process
+
+"""
+tas retype:
+.venv\Scripts\activate
+
+if magwas na (.venv) run the main.py
+
+
+
+
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+mysql-connector-python ----install: pip install mysql-connector-python
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""

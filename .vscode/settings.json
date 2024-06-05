@@ -1,0 +1,7 @@
+{
+  "python.analysis.extraPaths": [
+    "./build",
+    "./build/main_window",
+    "./login_page"
+  ]
+}
